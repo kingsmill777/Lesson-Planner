@@ -1,0 +1,8 @@
+Name : [32 character string][Mandatory]
+Level : [SS1, SS2, SS3, SS4, HFC, HFD, HFE, HFF, HFG, HFH, TB1, TB2, TB3, TB4, TB5, TB6, TB7, TB8]
+Target : [Vocabulary, Grammar, Dialogue, Reading, Writing, Reset]
+Goal : [Introduction, Practice, Test, Consolidate, Reset]
+Engagement : [Individual, Pairs, Small Groups, Whole Class]
+Age : 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Description : [One line string of characters.][Mandatory]
+Note :  [One line string of Characters.]

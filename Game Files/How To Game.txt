@@ -1,0 +1,7 @@
+To make a game fill out the Name and Description line of the file.
+
+To make the game more useful to other teachers other lines can be filled out.
+
+Level, Target, Goal, Engagement, Age are all filtered in the program so that teachers can easily find relevant games. Please consult the reference game on what to enter for the game to be filtered. You can enter 'ALL' in the field if you consider it suitable for all different options.
+
+Note is what you enter if there is something that wouldn't fit in the description but should be mentioned to the teacher about the game. i.e. if its a scary game. If it needs lots of space, or if its complicated and the students won't get it right away.
