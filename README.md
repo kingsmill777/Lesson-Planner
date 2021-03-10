@@ -13,9 +13,12 @@ Main UI program is the program that the user will interact with directly. It has
 
 Game Files contains all the different files to help a user create their own game that can go in the database.
 
+Sharepoint_CD is the file that connects to Sharepoint and downloads files from the Activity Finder folder.
+
+Main_Onefile is all the other files combined into one single file so it can be converted into a .exe file.
+
 To-Do List:
 
-    1. Make the second level combo boxes do something.
-    2. Make the Name search box do something.
-    3. Find a way to import files directly from Sharepoint.
+    1. Make the .exe file work properly
+    2. Create a settings file to future-proof the program.
     4. Add a clipboard function.
